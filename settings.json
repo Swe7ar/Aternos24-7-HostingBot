@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "مرحبا بكم في هادا السيرفر ارجو ان تستمتعو ",
+        "dev is 6iachhh",
+        "مطور البوت و السيرفر هو 6iachhh"
       ]
     },
     "chat-log": true,
@@ -78,12 +78,12 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "enabled": true,
+    "webhookUrl": "https://discord.com/api/webhooks/1553800349628895262/J2XmoMnPJ1FhCXO6vWSF6B7l-yX2YmnwqdjYG0xaUq6aWw9yGClQlJJgZvbK-G6gjovd",
     "events": {
       "connect": true,
       "disconnect": true,
-      "chat": false
+      "chat": true
     }
   },
   "chat": {
