@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sevensins.mcsh.io",
-    "port": 25565,
+    "ip": "sevensinsdz.falix.me",
+    "port": 24957,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "مرحبا بكم في هادا السيرفر ارجو ان تستمتعو ",
-        "dev is 6iachhh",
-        "مطور البوت و السيرفر هو 6iachhh"
+        " ",
+        "",
+        ""
       ]
     },
     "chat-log": true,
@@ -74,7 +74,7 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
+    "pick-up-day":  true
     "place-night": false
   },
   "discord": {
