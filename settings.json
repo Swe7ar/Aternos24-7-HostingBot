@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "bothost",
+    "username": "sinsseven",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "sevensinsdz.falix.me",
-    "port": 24957,
+    "port": 44019,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        " ",
-        "",
-        ""
+        "I'm a regular player",
+        "6iachh",
+        "I like to play Minecraft!"
       ]
     },
     "chat-log": true,
@@ -74,7 +74,7 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day":  true
+    "pick-up-day": false,
     "place-night": false
   },
   "discord": {
@@ -83,7 +83,7 @@
     "events": {
       "connect": true,
       "disconnect": true,
-      "chat": true
+      "chat": false
     }
   },
   "chat": {
